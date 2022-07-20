@@ -7,3 +7,5 @@ git config --global user.email "direccion_de_email@dominio.com"
 
 (pasar al repositorio local) -> git commit (i para insertar un comentario, ESC salir del comentario, :wq para grabar y salir )
 								-> git commit -m "Descripción del cambio"
+
+(Historial de commits) git log / --oneline (abreviada) / --graph (detalle de ramas)
